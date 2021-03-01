@@ -11,7 +11,7 @@
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
     "react-scroll-horizontal": "^1.6.2",
-    "three": "^0.109.0"
+    "three": "^0.125.0"
   },
   "scripts": {
     "start": "react-scripts start",
